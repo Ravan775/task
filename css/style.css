@@ -1,12 +1,12 @@
 .myDIV{
-    width: 500px;
-    height: 500px;
-    border-radius: 500px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
     background: rgb(112, 112, 255);
     position: absolute;
     display: flex;
     float: left;
-    top: 0px;
+    top: 20px;
     left: 0px;
 }
 
