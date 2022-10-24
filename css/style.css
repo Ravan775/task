@@ -6,8 +6,8 @@
     position: absolute;
     display: flex;
     float: left;
-    top: 60px;
-    left: 0px;
+    top: 500px;
+    left: 500px;
 }
 
 .hide{
